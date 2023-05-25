@@ -13,3 +13,4 @@ Why don't programmers like to go outside? The sunlight causes too many reflectio
 Why did the programmer get stuck in the shower? The instructions said: Lather, Rinse, Repeat.
 Why do programmers prefer dark chocolate? Because it's byte-sized!
 Why did the programmer bring a ladder to the bar? They heard the drinks were on the house.
+Why do programmers are sad when their girl says there's number 1 in their hearth ? Because there are not at index 0!
