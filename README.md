@@ -10,5 +10,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: [quotes-MaxBavon1-int4](https://github.com/MaxBavon1/quotes-etienne-int4.git)
-- `contributor-2`: [quotes-gorgorQ-int4](https://github.com/GorgorQ/quotes-etienne-int4.git)
-- `contributor-3`: [quotes-liloubkr-int4](https://github.com/liloubkr/quotes-etienne-int4.git)
+- `contributor-2`: [quotes-gorgorQ-int4](https://github.com/GorgorQ/quotes-kalaydjian-int4.git)
+- `contributor-3`: [quotes-liloubkr-int4](https://github.com/liloubkr/quotes-becker-int4.git)
