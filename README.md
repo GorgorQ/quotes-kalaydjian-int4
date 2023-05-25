@@ -3,12 +3,12 @@
 A python program that generates programming quotes and jokes.
 
 ## Contributors
-- `initiator`: Maxime Etienne Group A
-- `contributor-1`: Maxime Etienne Group A
-- `contributor-2`: Alexandre Kalaydjian Group A
-- `contributor-3`: Lilou Becker Group A
+- `initiator`: Maxime Etienne Group Int4
+- `contributor-1`: Maxime Etienne Group Int4
+- `contributor-2`: Alexandre Kalaydjian Group Int4
+- `contributor-3`: Lilou Becker Group Int4
 
 ## Fork urls
-- `contributor-1`: [quotes-MaxBavon1-a](https://github.com/MaxBavon1/quotes-etienne-a.git)
-- `contributor-2`: [quotes-gorgorQ-a](https://github.com/GorgorQ/quotes-etienne-a.git)
-- `contributor-3`: [quotes-liloubkr-a](https://github.com/liloubkr/quotes-etienne-a.git)
+- `contributor-1`: [quotes-MaxBavon1-int4](https://github.com/MaxBavon1/quotes-etienne-int4.git)
+- `contributor-2`: [quotes-gorgorQ-int4](https://github.com/GorgorQ/quotes-etienne-int4.git)
+- `contributor-3`: [quotes-liloubkr-int4](https://github.com/liloubkr/quotes-etienne-int4.git)
